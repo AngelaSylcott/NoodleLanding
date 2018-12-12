@@ -1,0 +1,13 @@
+body {
+	background-image: url(noodleLandingPhoto.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+p {
+	font-family: 'Lilita One', cursive;
+	text-align: right;
+	color: #FFFFFF;
+	font-size: 72px;
+}
